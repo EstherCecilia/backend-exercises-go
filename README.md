@@ -13,3 +13,4 @@ Os exemplos estão organizados em tópicos e incluem:
 - **Formatação com `fmt`**: Uso de pacotes como `fmt` para entrada e saída de dados.
 - **JSON**: Simulação de `JSON.parse()` e `JSON.stringify()` no Go.
 - **Funções**: Exemplos de como criar e usar funções no Go.
+- **Datas**: Exemplos de como manipular datas no Go.
